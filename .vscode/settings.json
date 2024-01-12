@@ -1,0 +1,12 @@
+{
+    "deno.path": "/home/tannal/tannalwork/projects/deno/target/debug/deno",
+    "deno.enable": true,
+    "deno.lint": true,
+    "deno.unstable": true,
+    "deno.cacheOnSave": true,
+    "deno.internalInspect": "0.0.0.0:9222",
+    "rust-analyzer.cargo.features": [
+        "__runtime_js_sources"
+    ],
+    "deno.importMap": "./tools/core_import_map.json"
+}
